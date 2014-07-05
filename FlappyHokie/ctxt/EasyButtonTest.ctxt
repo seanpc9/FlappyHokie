@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EasyButtonTest()
+comment0.text=\r\n\ Creates\ a\ new\ EasyButtonTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testOnTouchDown()
+comment2.text=\r\n\ Tests\ the\ onTouchDown()\ method.\ This\ method\ should\ remove\r\n\ all\ of\ the\ buttons,\ populate\ the\ world\ with\ an\ EasyBird\ and\r\n\ pipes,\ and\ create\ a\ scoreboard.\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MediumBirdTest()
+comment0.text=\r\n\ Creates\ a\ new\ MediumBirdTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testWrapAround1()
+comment2.text=\r\n\ Tests\ the\ wrapAround()\ method.\ If\ the\ MediumBird\ reaches\ the\r\n\ right\ edge\ of\ the\ world,\ it\ should\ wrap\ back\ around\ to\ the\r\n\ left\ edge\ of\ the\ world\ and\ update\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ testWrapAround2()
+comment3.text=\r\n\ Tests\ the\ wrapAround()\ method.\ If\ the\ MediumBird\ is\ not\ at\r\n\ the\ right\ edge\ of\ the\ world,\ it\ will\ move\ three\ cells.\r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HardBird()
+comment0.text=\r\n\ Creates\ a\ new\ HardBird\ object.\r\n
+comment1.params=
+comment1.target=void\ wrapAround()
+comment1.text=\r\n\ Override\ the\ wrapAround()\ method.\r\n
+numComments=2
